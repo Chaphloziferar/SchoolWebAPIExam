@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SchoolWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:SchoolWebAPI.Controllers.UserController.GetAllUsers">
+            <summary>
+            Devuelve el listado de todos los usuarios
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolWebAPI.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Devuelve un usuario especifico
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolWebAPI.Controllers.UserController.PostUser(SchoolWebAPI.Db.User)">
+            <summary>
+            Crear un nuevo registro de usuario
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolWebAPI.Controllers.UserController.PutUser(System.Int32,SchoolWebAPI.Db.User)">
+            <summary>
+            Modificar un usuario existente
+            </summary>
+            <param name="userId"></param>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolWebAPI.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Elimina a un usuario especifico
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
