@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\UNIPromecys\SchoolWebAPI\SchoolWebAPI\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="E:\UNIPromecys\SchoolWebAPI\SchoolWebAPI\obj\Release\net6.0\PubTmp\EFSQLScripts\SchoolWebAPI.Db.SchoolContext.sql" />
+</sitemanifest>
